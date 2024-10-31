@@ -1,5 +1,5 @@
 # Team Generator
-Generate teams randomly based on rank. This is useful if you want to create linueups of balanced teams. 
+Generate teams randomly based on rank. This is useful if you want to create linueups of balanced teams.<br>
 See it in action [https://team-generator-ruvl.onrender.com/](https://team-generator-ruvl.onrender.com/)
 
 
