@@ -1,5 +1,7 @@
 # Team Generator
-Generate teams randomly based on rank. This is useful if you want to create linueups of balanced teams. See it in action [here](https://team-generator-production.up.railway.app)
+Generate teams randomly based on rank. This is useful if you want to create linueups of balanced teams. 
+See it in action [https://team-generator-ruvl.onrender.com/](https://team-generator-ruvl.onrender.com/)
+
 
 ![CleanShot 2023-01-10 at 09 46 22](https://user-images.githubusercontent.com/928780/211582978-803c3a4a-3ce9-4187-97e5-83897c8283cd.gif)
 
